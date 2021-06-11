@@ -21,7 +21,14 @@ namespace stuartAssment2
 
         public void addParticipent(Participents p)
         {
-            members.Add(p);
+            if(members.Count >= 5)
+            {
+                Console.WriteLine("Team is already full");
+            } else
+            {
+                members.Add(p);
+            }
+            
         }
 
         public void printTeam()

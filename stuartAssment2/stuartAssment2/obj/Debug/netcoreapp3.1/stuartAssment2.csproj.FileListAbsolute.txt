@@ -8,3 +8,4 @@ C:\Users\723422\OneDrive\stuartAssment2\stuartAssment2\obj\Debug\netcoreapp3.1\s
 C:\Users\723422\OneDrive\stuartAssment2\stuartAssment2\obj\Debug\netcoreapp3.1\stuartAssment2.AssemblyInfo.cs
 C:\Users\723422\OneDrive\stuartAssment2\stuartAssment2\obj\Debug\netcoreapp3.1\stuartAssment2.dll
 C:\Users\723422\OneDrive\stuartAssment2\stuartAssment2\obj\Debug\netcoreapp3.1\stuartAssment2.pdb
+C:\Users\723422\OneDrive\stuartAssment2\stuartAssment2\obj\Debug\netcoreapp3.1\stuartAssment2.csprojAssemblyReference.cache
