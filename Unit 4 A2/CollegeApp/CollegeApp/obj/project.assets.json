@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v5.0": {},
+    ".NETFramework,Version=v5.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\723422\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "\\\\h-storage06\\H-W-STU-04-H\\723422\\Work\\Unit 4 A2\\CollegeApp\\CollegeApp\\CollegeApp.csproj",
+      "projectName": "CollegeApp",
+      "projectPath": "\\\\h-storage06\\H-W-STU-04-H\\723422\\Work\\Unit 4 A2\\CollegeApp\\CollegeApp\\CollegeApp.csproj",
+      "packagesPath": "C:\\Users\\723422\\.nuget\\packages\\",
+      "outputPath": "\\\\h-storage06\\H-W-STU-04-H\\723422\\Work\\Unit 4 A2\\CollegeApp\\CollegeApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "\\\\h-storage06\\H-W-STU-04-H\\723422\\System\\Profile\\AppData.V5\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net50"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net50": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net50": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
